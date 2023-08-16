@@ -22,6 +22,9 @@ public class Typecasting {
         int p = (m * n) / o;
         System.out.println(p);
 
+        int number = 'A';
+        System.out.println(number);
+
     }
     
 }
